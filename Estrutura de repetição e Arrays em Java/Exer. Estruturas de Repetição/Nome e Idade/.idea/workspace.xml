@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a032ed5e-0fac-4582-9de2-8df2201318e1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Ex1_NomeEIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1_NomeEIdade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2_Nota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex2_Nota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_MaiorEMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_MaiorEMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4_ParEImpar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex4_ParEImpar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5_Tabuada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex5_Tabuada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex6_Fatorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex6_Fatorial.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="23CKuoOJHiQ1OSPta51FxBbshSr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Ex6_Fatorial">
+    <configuration name="Ex2_Nota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex2_Nota" />
+      <module name="Estruturas de repetição" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex3_MaiorEMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex3_MaiorEMedia" />
+      <module name="Estruturas de repetição" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex4_ParEImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex4_ParEImpar" />
+      <module name="Estruturas de repetição" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex5_Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_Tabuada" />
+      <module name="Estruturas de repetição" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex6_Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6_Fatorial" />
+      <module name="Estruturas de repetição" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex6_Fatorial" />
+        <item itemvalue="Application.Ex5_Tabuada" />
+        <item itemvalue="Application.Ex4_ParEImpar" />
+        <item itemvalue="Application.Ex3_MaiorEMedia" />
+        <item itemvalue="Application.Ex2_Nota" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a032ed5e-0fac-4582-9de2-8df2201318e1" name="Changes" comment="" />
+      <created>1641232857721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641232857721</updated>
+    </task>
+    <servers />
+  </component>
+</project>
