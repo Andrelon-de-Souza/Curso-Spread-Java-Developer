@@ -1,8 +1,8 @@
 package Exercicio1;
 
-public class Endereco {
+public class Endereco extends Object {
 
-    public enum TipoEndereco{
+    public enum TipoEndereco {
         RESIDENCIAL,
         ENTREGA,
         TRABALHO};
